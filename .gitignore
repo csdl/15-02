@@ -1,3 +1,8 @@
+## IntelliJ IDEA
+15-02.iml
+.idea
+
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -10,10 +15,16 @@
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
+*.make
+*.d
+*.spl
+*.temp
+
 # these rules might exclude image files for figures etc.
 # *.ps
 # *.eps
 # *.pdf
+
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
